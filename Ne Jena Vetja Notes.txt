@@ -1,0 +1,9 @@
+--------------------------------------------------------------------------------
+Notes
+--------------------------------------------------------------------------------
+Missing Inputs
+The input "Input 1" on track "Rhythm Guitar" is not available in the current I/O setup.
+The input "Input 1" on track "Lead Guitar" is not available in the current I/O setup.
+The input "Input 1-2" on track "Audio 3" is not available in the current I/O setup.
+The input "Input 1-2" on track "Audio 4" is not available in the current I/O setup.
+
